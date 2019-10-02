@@ -1,0 +1,15 @@
+{
+  "name": "newman-reporter-azure",
+  "version": "1.0.0",
+  "description": "Works like JUnit reporter but prepends testsuite name to the testcase name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bogdan boiculese",
+  "license": "MIT",
+  "peerDependencies": {
+    "lodash": "4.17.15",
+    "xmlbuilder": "13.0.2"
+  }
+}
